@@ -5,4 +5,10 @@ repository สำหรับรายวิชา 2758688 หลักการ
 # เนื้อหารายสัปดาห์
 
 ## สัปดาห์ที่ 1 : Introduction to ML
-เนื้อหาสัปดาห์นี้จะกล่าวถึงคำและมโนทัศน์สำหรับเกี่ยวกับ machine learning และกระบวนการพัฒนา ML model นอกจากนี้ยังแนะนำ tidymodels framework สำหรับการพัฒนา machine learning model ด้วย R 
+เนื้อหาสัปดาห์นี้จะกล่าวถึงคำและมโนทัศน์สำหรับเกี่ยวกับ machine learning และกระบวนการพัฒนา ML model นอกจากนี้ยังแนะนำ tidymodels framework สำหรับการพัฒนา machine learning model ด้วย R
+
+## สัปดาห์ที่ 2 : Model Fitting using Parsnip
+เนื้่อหาหลักในสัปดาห์นี้เป็นการแนะนำการใช้ parsnip package ที่อยู่ภายใต้ tidymodels framework สำหรับพัฒนาโมเดลการเรียนรู้ในกลุ่ม supervise learning นอกจากนี้ยังจะแนะนำความรู้เบื้องต้นเกี่ยวกับการเตรียมข้อมูลก่อนการวิเคราะห์ข้อมูล
+
+## สัปดาห์ที่ 3 : แนะนำ Recipe และ Hyperparameter tuning
+เนื้อหาสัปดาห์นี้แนะนำการใช้ package recipe เพื่อเตรียมข้อมูลให้พร้อมกับการวิเคราะห์ และมโนทัศน์สำคัญรวมทั้งวิธีการปรับแต่งค่า hyperparameter ของอัลกอริทึมการเรียนรู้ของเครื่อง โดยจะกล่าวถึง มโนทัศน์ของ decision tree model ไปพร้อม ๆ กับการกล่าวถึงวิธีการปรับแต่งค่า hyperparameters ไปเลย
